@@ -186,3 +186,6 @@ gradle-app.setting
 **/build/
 
 # End of https://www.gitignore.io/api/java,gradle,intellij+all,vim,macOS
+
+# Ignore Gradle build output directory
+build
